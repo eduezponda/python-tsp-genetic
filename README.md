@@ -1,7 +1,9 @@
 **Travelling Salesman Problem with Genetic Algorithms**
 
 **Project Overview**
-This project aims to solve the Travelling Salesman Problem (TSP) using Genetic Algorithms (GA). The main goal is to understand how genetic algorithms work and to analyze the impact of various parameters and techniques on their performance in solving TSP. The problem involves determining a route starting from Pamplona that passes through 20 Spanish cities exactly once and returns to Pamplona at the lowest possible cost.
+This project aims to solve the Travelling Salesman Problem (TSP) using Genetic Algorithms (GA). 
+The main goal is to understand how genetic algorithms work and to analyze the impact of various parameters and techniques on their performance in solving TSP.
+The problem involves determining a route starting from Pamplona that passes through 20 Spanish cities exactly once and returns to Pamplona at the lowest possible cost.
 
 **Files and Directories**
   main.ipynb: Main executable script/notebook that runs the genetic algorithm.
@@ -9,7 +11,7 @@ This project aims to solve the Travelling Salesman Problem (TSP) using Genetic A
   
 **Setup and Installation**
   **Clone the repository:**
-    git clone https://github.com/username/TSP_Genetic_Algorithm_Solver.git
+    https://github.com/eduezponda/python-tsp-genetic.git
     cd TSP_Genetic_Algorithm_Solver
     
 **Usage**
